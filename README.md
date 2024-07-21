@@ -39,8 +39,8 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/crypto-tracker.git
-   cd crypto-tracker
+   git clone https://github.com/your-username/cryptoniteweb.git
+   cd cryptoniteweb
 
 
 ### Installation
